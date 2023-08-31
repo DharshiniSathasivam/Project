@@ -1,0 +1,11 @@
+Fonts
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Peralta&family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+background color
+background: #4B40C5;
+background: #EC682C;
+
+font-family: 'Peralta', serif;
+font-family: 'Poppins', sans-serif;
