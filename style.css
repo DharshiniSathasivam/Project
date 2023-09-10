@@ -17,7 +17,7 @@
  header{
       background-image: url(img/unsplash_ELf8M_YWRTY.png);
       width: 100%;
-       height: 100vh; 
+      min-height: 927px; 
       background-repeat: no-repeat;
       background-size: cover; 
       background-position: center;
@@ -57,54 +57,21 @@
      text-decoration: none;
      margin-left: 8px;
 }
-.middle{
-   text-align: start;
-  position: relative;
-  top: 190px;
+.htag1>h3{
+   display: flex;
+   font-size: 32px;
+   font-weight: 700px;
+   width: 270px;
+   height: 34px;
+   top: 1004px;
+   left: 579px;
 }
-.middle>h1{
-width: 1108px;
-height: 89px;
-top: 387px;
-left: 41px;
-font-size: 45px;
-font-weight: bold;
-line-height: 118px;
-letter-spacing: -0.04em;
-text-align: left;
-}
-.middle>p{
-   width: 757px;
-height: 47px;
-top: 476px;
-left: 50px;
-font-size: 25px;
+.htag1>h1{
+   font-family: Poppins;
+font-size: 64px;
 font-weight: 700;
-line-height: 45px;
+line-height: 96px;
 letter-spacing: 0em;
-text-align: left;
-color:#FFFFFF;
-}
-.middle>a{
-   width: 228.00958251953125px;
-height: 75.88206481933594px;
-top: 549px;
-left: 50px;
-border-radius: 13.301215171813965px;
-}
-.btn{
-   padding: 8px, 20px, 8px, 20px;
-   border-radius: 8px;
-   color: #fff;
-   display: inline-block;
-   font-weight: bold;
-   font-size: 16px;
-   text-decoration: none;
-   position: relative;
-}
-.btn.light{
-   background-color: #EC682C;
-   width: 100px;
-   height: 40px;
-   border: 1px;
+text-align: center;
+
 }
