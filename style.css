@@ -481,3 +481,58 @@ right: 260px;
    bottom: 2690px;
    left: 980px;
 }
+/* section 6 */
+.last{
+   background-color:  #f3f7f2;
+   width: 1300px;
+height: 400px;
+border: 1p;
+border-radius: 26px, 171px, 26px, 26px;
+border-top-left-radius: 160px;
+position: relative;
+left: 20px;
+
+}
+.arrow{
+   width: 80.8px;
+height: 80.8px;
+position: relative;
+left: 1250px;
+bottom: 15px;
+}
+.subscribe{
+font-size: 32px;
+font-weight: 600;
+line-height: 72px;
+word-wrap: break-word;
+word-break: break-all;
+text-align: center;
+}
+.btn.light.sub{
+   width: 80px;
+height: 45px;
+border-radius: 13.3px;
+background: linear-gradient(180deg, #FF946D 0%, #FF7D68 100%);
+position: relative;
+left: 480px;
+}
+.Subscribe{
+  position: relative;
+  top: 10px;
+}
+.txt{
+   width: 400px;
+height: 70px;
+border: 1.33px;
+position: relative;
+top: 40px;
+left: 400px;
+}
+.last{
+   position: relative;
+   bottom: 2500px;
+}
+
+
+
+
